@@ -1,0 +1,19 @@
+.type1{
+    background-image: url(../images/images/bg-image-28.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.type2{
+    background-image: url(../images/images/bg-image-29.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.caption{
+    height: 100%;
+}
+
+}
+.caption h1{
+    font-size: 100px;
+    font-weight: 700;
+}
