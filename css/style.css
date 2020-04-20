@@ -17,3 +17,51 @@
     font-size: 100px;
     font-weight: 700;
 }
+
+
+
+.sec3container{
+    background-color: #F5F5F5;
+}
+.s3uppergroup{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sec3line{
+    height:7px;width:50px;background-color:#0078FF;
+    margin-bottom: 15px;
+}
+.s3element{
+    text-align: center;
+    /* background-color: teal; */
+    padding: 20px;    
+}
+.s3element p{
+    padding: 10px;
+}
+.s3element i{
+    margin:15px 0px;
+    font-size: 55px;
+    background-color:white;
+    padding: 22px;
+    border-radius: 50%;
+    border: 8px solid #1784FF;  
+    /* animation-timing-function: ease;
+    animation-duration: 5s;
+    animation-delay: 0.2s; */
+    
+}
+.s3element i:hover{
+    color:white;
+    background-color:#1784FF;    
+    border: 8px solid rgba(223, 235, 248, 0.432);
+}
+.s3elementinnerdiv{
+    background-color: white;
+    border-radius: 3%;
+    box-shadow: -1px 16px 8px -11px rgba(0,0,0,0.26);
+    -webkit-box-shadow: -1px 16px 8px -11px rgba(0,0,0,0.26);
+    -moz-box-shadow: -1px 16px 8px -11px rgba(0,0,0,0.26);
+}
