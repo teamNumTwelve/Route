@@ -113,3 +113,76 @@
     bottom: 30px;
 }
 /*End fifth section*/
+
+ /* start footer */
+
+          /* start contact */
+
+          footer{
+
+            padding top:  100px ;
+          }
+          .contact{
+              padding: 100px 0;
+          }
+
+          .contact .contact-heading h2{
+
+            margin-bottom: 20px;
+            font-size: 40px;
+            line-height: 38px;
+            font-weight: 700 ;}
+
+            
+          .contact .contact-heading p{
+            font-size: 19px;
+            padding: 10px 0 40px;
+          }
+          .contact h3 {
+
+            font-size: 30px;
+            font-weight: 700;
+       
+          }
+          .contact .data{
+
+            border-bottom: 1PX solid #eee;
+
+          }
+          .contact .data .data-icon{
+
+            color:rgba(242, 84, 84, 0.85);
+            margin-top: 40PX;
+        
+
+          }
+          .contact .data .data-content{
+
+            margin-left: 20px;
+            margin-top: 30PX;
+            
+            
+          }
+          .contact .data .data-content h6{
+              font-size: 19px;
+              font-weight: 600;
+
+          }
+          .contact form{
+
+            padding: 15px 0;
+            padding: 20px 0 ;
+            
+          }
+          .contact form .form-control {
+
+           margin-bottom: 30px;
+           }
+          
+          .contact form button{
+
+            padding: 13px 40px;
+            font-size: 15px;
+            font-weight: 600;
+          }
+        /* end footer */
