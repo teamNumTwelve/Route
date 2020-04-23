@@ -3,6 +3,7 @@
     background-size: cover;
     height: 100vh;
 }
+
 .type2{
     background-image: url(../images/images/bg-image-29.jpg);
     background-size: cover;
@@ -12,7 +13,7 @@
     height: 100%;
 }
 
-}
+
 .caption h1{
     font-size: 100px;
     font-weight: 700;
@@ -120,7 +121,7 @@
 
           footer{
 
-            padding top:  100px ;
+            padding-top:100px ;
           }
           .contact{
               padding: 100px 0;
@@ -186,3 +187,21 @@
             font-weight: 600;
           }
         /* end footer */
+
+
+        .four{
+            margin:40px;
+        
+        }
+        .four1{
+            width: 100%;
+            background-color: darkgray;
+        
+        }
+        .browen{
+
+            margin: 10px;
+            background-color: brown;
+        
+        }
+        
